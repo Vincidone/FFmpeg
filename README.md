@@ -1,11 +1,16 @@
-### FFEditor
+### FFmpeg
 
-一款强大的音视频编辑 App
+一个基于FFmpeg的音视频编辑客户端
 
-![111.png](https://upload-images.jianshu.io/upload_images/4679478-7de6fd06af639e13.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+拼图效果
+
+![images](https://github.com/wuwuhuai/FFmpeg/blob/master/%E6%8B%BC%E5%9B%BE1.png)
+
+
+滤镜效果
+
+![images](https://github.com/wuwuhuai/FFmpeg/blob/master/%E6%BB%A4%E9%95%9C.png)
 
 
 
-下载试用：https://fir.im/f3vd
 
-FFmpeg so 的编译基于 https://github.com/yhaolpz/FFmpeg/tree/cmd_ffmpeg_app_3.3
