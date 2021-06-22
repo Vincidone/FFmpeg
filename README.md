@@ -1,6 +1,6 @@
 ### FFmpeg
 
-一个基于FFmpeg的视频编辑客户端
+FFmpeg demo
 
 拼图效果
 
